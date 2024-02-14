@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning Data Analytics.
 - 💞️ I’m looking to collaborate on Open Source Project and Jobs.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kate-ukaegbu)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kate-ukaegbu) [Twitter](@KateUkaegbu)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love exploring.
 
